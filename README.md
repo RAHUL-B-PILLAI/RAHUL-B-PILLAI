@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Rahul B Pillai
 
-<!--
-**RAHUL-B-PILLAI/RAHUL-B-PILLAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Robotics Engineer passionate about autonomous systems, robot navigation, and human-centric robotics.
 
-Here are some ideas to get you started:
+Currently working on autonomous navigation systems for robotic platforms, with a focus on robotics software, perception, navigation, and real-world deployment challenges. My background includes applied robotics engineering experience in developing autonomous navigation solutions for robots operating in granular environments, UAVs, and UGVs, along with research experience in Human-Robot Interaction (HRI) and socially aware navigation.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack (AI & Robotics)
+- Python
+- C++
+- Linux
+- Bash
+- ROS
+- Gazebo
+- RViz
+- OpenCV
+
